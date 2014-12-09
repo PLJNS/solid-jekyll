@@ -1,0 +1,14 @@
+{
+  "name": "mywebsite",
+  "dependencies": {
+    "bootstrap": "~3.3.1",
+    "jquery": "~1.9.1",
+    "fontawesome": "~4.2.0",
+    "bootswatch": "latest"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
